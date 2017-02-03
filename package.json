@@ -1,7 +1,7 @@
 {
   "name": "assert-path-segments",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "HTTP middleware that validates that no empty path segments (//) are present",
   "license": "MIT",
   "repository": "bendrucker/assert-path-segments",
