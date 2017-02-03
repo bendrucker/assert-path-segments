@@ -1,0 +1,34 @@
+{
+  "name": "assert-path-segments",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "HTTP middleware that validates that no empty path segments (//) are present",
+  "license": "MIT",
+  "repository": "bendrucker/assert-path-segments",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "http",
+    "middleware",
+    "url",
+    "path",
+    "validation"
+  ],
+  "devDependencies": {
+    "shot": "~3.4.0",
+    "standard": "^8.6.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "*.js"
+  ],
+  "dependencies": {
+    "error": "~7.0.2"
+  }
+}
