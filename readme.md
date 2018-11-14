@@ -1,4 +1,4 @@
-# assert-path-segments [![Build Status](https://travis-ci.org/bendrucker/assert-path-segments.svg?branch=master)](https://travis-ci.org/bendrucker/assert-path-segments)
+# assert-path-segments [![Build Status](https://travis-ci.org/bendrucker/assert-path-segments.svg?branch=master)](https://travis-ci.org/bendrucker/assert-path-segments) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-path-segments.svg)](https://greenkeeper.io/)
 
 > HTTP middleware that validates that no empty path segments (//) are present
 
